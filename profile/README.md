@@ -20,9 +20,9 @@ With over 20 years of experience at **Google, AWS, VMware, and IBM**, I transfor
 ### 📂 My GitHub Ecosystem
 I maintain my work across three specialized repositories:
 
-* **[priyambodo-at-google](https://github.com/doddipriyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools.
-* **[doddipriyambodo](https://github.com/doddipriyambodo)**: Primary personal profile for active open-source contributions and innovative AI projects (I am Smart, RIBEYE, etc.).
-* **[do-priyambodo](https://github.com/do-priyambodo)**: Archive and workspace for technical explorations and specialized modules.
+* **[do-priyambodo](https://github.com/do-priyambodo)**: Primary personal profile for active open-source contributions and innovative AI projects.
+* **[priyambodo-at-google](https://github.com/doddipriyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools
+* **[doddipriyambodo](https://github.com/doddipriyambodo)**: Archive and workspace for technical explorations and specialized modules.
 
 ---
 
