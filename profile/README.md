@@ -1,10 +1,3 @@
-Got it! I’ve integrated your Medium and Substack profiles into the "Connect with Me" section. This completes the profile by showcasing your thought leadership across all your major platforms.
-
-***
-
-# README.md
-
-```markdown
 # Hi there, I'm Doddi Priyambodo 👋 
 
 **Solutions Consultant @ Google Cloud SEA | Data & AI Strategist | #StoryTeller ✨**
@@ -63,4 +56,3 @@ I maintain my work across three specialized repositories:
 ---
 
 *"I transform visionary thinking into enterprise reality by blending AI expertise with a storyteller's perspective and a commitment to gritty execution."*
-```
