@@ -1,53 +1,66 @@
-# Hi there, I'm Doddi Priyambodo 👋
+Got it! I’ve integrated your Medium and Substack profiles into the "Connect with Me" section. This completes the profile by showcasing your thought leadership across all your major platforms.
 
-**Solutions Consultant @ Google Cloud SEA | Data & AI Specialist**
+***
 
-I am a seasoned technology leader with over two decades of experience driving digital transformation across the globe. My career has been defined by a passion for translating complex technical capabilities—specifically in Cloud, Data, and AI—into strategic business outcomes.
+# README.md
 
-### 🚀 What I Do
-- **Cloud Architecture:** Expert in designing secure, scalable architectures across GCP, AWS, and VMware.
-- **Data & AI:** Driving business growth through Machine Learning and GenAI solutions.
-- **Strategic Consulting:** Bridging the gap between technical innovation and business strategy.
-- **Leadership:** Advocating for Servant Leadership and Agile methodologies to empower teams.
+```markdown
+# Hi there, I'm Doddi Priyambodo 👋 
+
+**Solutions Consultant @ Google Cloud SEA | Data & AI Strategist | #StoryTeller ✨**
+
+> **"Think Big, Stay Grit, Lead with Kindness"**
+> 
+> *To #ThinkBIG is to look beyond immediate hurdles and envision a future where technology serves at scale. It takes a #StayGRIT mindset to turn audacious visions into reality through relentless perseverance. Yet, the bigger we dream, the more we must use #BeKind as our compass to ensure our disruption creates a more compassionate world.*
+
+---
+
+### 🚀 About Me
+With over 20 years of experience at **Google, AWS, VMware, and IBM**, I transform visionary thinking into enterprise reality. I blend deep AI expertise with a storyteller's perspective to solve the world's largest enterprise challenges.
+
+* **Currently:** Accelerating digital transformation through Data & GenAI at Google Cloud.
+* **Expertise:** Cloud Architecture, Machine Learning, and Strategic Consulting.
+* **Community:** Active vExpert and tech evangelist at [Bicara IT](https://bicarait.com).
+
+---
+
+### 📂 My GitHub Ecosystem
+I maintain my work across three specialized repositories:
+
+* **[priyambodo-at-google](https://github.com/doddipriyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools.
+* **[doddipriyambodo](https://github.com/doddipriyambodo)**: Primary personal profile for active open-source contributions and innovative AI projects (I am Smart, RIBEYE, etc.).
+* **[do-priyambodo](https://github.com/do-priyambodo)**: Archive and workspace for technical explorations and specialized modules.
+
+---
+
+### 🛠 Tech & Certifications
+
+| Platform | Expertise & Professional Certifications |
+| :--- | :--- |
+| **Google Cloud** | ML Engineer, Data Engineer, Cloud Architect, Security & Network Engineer |
+| **AWS** | Solutions Architect (Pro), DevOps Engineer (Pro), Big Data Specialty |
+| **VMware** | VCP-DCV, VCAP-DCD, VCP-CMA, vExpert (2017, 2021) |
+| **IBM** | PureFlex Technical Expert, Systems Sales Specialist |
 
 ---
 
 ### 💼 Career Journey
-- **Google Cloud** | Solutions Consultant (2021 - Present)
-- **Amazon Web Services (AWS)** | Solutions Architect (2018 - 2021)
-- **VMware** | Cloud Architect & Consultant ASEAN (2014 - 2018)
-- **IBM** | Solutions Architect (2012 - 2014)
-- **ICON+** | Application Development Manager
+* **Google Cloud** | Solutions Consultant (Present)
+* **Amazon Web Services** | Solutions Architect
+* **VMware** | Cloud Architect & Consultant ASEAN
+* **IBM** | Solutions Architect (PureFlex Systems)
 
 ---
 
-### 📜 Certifications & Expertise
-
-#### **Google Cloud (Professional)**
-- Data Engineer • Machine Learning Engineer • Cloud Architect • Cloud Security Engineer • Cloud Network Engineer
-
-#### **Amazon Web Services**
-- Solutions Architect (Pro) • DevOps Engineer (Pro) • Big Data (Specialty) • Developer • SysOps Admin
-
-#### **VMware & IBM**
-- VCP-DCV • VCAP-DCD • VCP-CMA • vExpert (2017, 2021)
-- IBM PureFlex Technical Expert
+### 📫 Connect with Me
+* **Portfolio:** [priyambodo.com](https://priyambodo.com)
+* **LinkedIn:** [linkedin.com/in/doddipriyambodo](https://www.linkedin.com/in/doddipriyambodo)
+* **Technical Blog:** [bicarait.com](https://bicarait.com)
+* **Medium:** [doddipriyambodo.medium.com](https://doddipriyambodo.medium.com)
+* **Substack:** [doddipriyambodo.substack.com](https://doddipriyambodo.substack.com)
+* **Email:** [doddi@priyambodo.com](mailto:doddi@priyambodo.com)
 
 ---
 
-### 🛠 Tech Stack
-- **Cloud:** Google Cloud Platform (GCP), AWS, VMware Cloud, Hybrid Cloud Architecture.
-- **Data/AI:** GenAI, Machine Learning, Big Data Analytics.
-- **Methodologies:** Scrum Agile, Servant Leadership, Strategic Storytelling.
-
----
-
-### 📫 Get in Touch
-- **Personal Website:** [priyambodo.com](https://priyambodo.com)
-- **LinkedIn:** [linkedin.com/in/doddipriyambodo](https://www.linkedin.com/in/doddipriyambodo)
-- **Email:** doddi@priyambodo.com
-
----
-
-### ⚡ Fun Fact
-I'm a storyteller at heart—whether it's through complex system diagrams or sharing insights on my blog at [bicarait.com](https://bicarait.com).
+*"I transform visionary thinking into enterprise reality by blending AI expertise with a storyteller's perspective and a commitment to gritty execution."*
+```
