@@ -44,7 +44,7 @@ I am a seasoned technology leader with over two decades of experience driving di
 
 ### 📫 Get in Touch
 - **Personal Website:** [priyambodo.com](https://priyambodo.com)
-- **LinkedIn:** [linkedin.com/in/dpriyambodo](https://www.linkedin.com/in/dpriyambodo)
+- **LinkedIn:** [linkedin.com/in/doddipriyambodo](https://www.linkedin.com/in/doddipriyambodo)
 - **Email:** doddi@priyambodo.com
 
 ---
