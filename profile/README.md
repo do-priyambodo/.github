@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-With over 20 years of experience at **Google, AWS, VMware, and IBM**, I transform visionary thinking into enterprise reality. I blend deep AI expertise with a storyteller's perspective to solve the world's largest enterprise challenges.
+With over two decades years of experience at **Google, AWS, VMware, and IBM**, I transform visionary thinking into enterprise reality. I blend deep AI expertise with a storyteller's perspective to solve the world's largest enterprise challenges.
 
 * **Currently:** Accelerating digital transformation through Data & GenAI at Google Cloud.
 * **Expertise:** Cloud Architecture, Machine Learning, and Strategic Consulting.
