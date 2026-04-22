@@ -21,7 +21,7 @@ With over two decades years of experience at **Google, AWS, VMware, and IBM**, I
 I maintain my work across three specialized repositories:
 
 * **[github/do-priyambodo](https://github.com/do-priyambodo)**: Primary personal profile for active open-source contributions and innovative AI projects.
-* **[github/priyambodo-at-google](https://github.com/doddipriyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools
+* **[github/priyambodo-at-google](https://github.com/priyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools
 * **[github/doddipriyambodo](https://github.com/doddipriyambodo)**: Archive and workspace for technical explorations and specialized modules.
 
 ---
