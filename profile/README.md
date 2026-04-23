@@ -13,6 +13,7 @@ With over two decades years of experience at **Google, AWS, VMware, and IBM**, I
 
 * **Currently:** Accelerating digital transformation through Data & GenAI at Google Cloud.
 * **Expertise:** Cloud Architecture, Machine Learning, and Strategic Consulting.
+* **Portfolio:** Check my published articles, codes/apps, stories at [priyambodo.com](https://priyambodo.com)
 * **Community:** Active vExpert and tech evangelist at [Bicara IT](https://bicarait.com) & Google Developer Group (GDG)
 
 ---
@@ -46,7 +47,7 @@ I maintain my work across three specialized repositories:
 ---
 
 ### 📫 Connect with Me
-* **Portfolio:** [priyambodo.com](https://priyambodo.com)
+* **Website:** [priyambodo.com](https://priyambodo.com)
 * **LinkedIn:** [linkedin.com/in/doddipriyambodo](https://www.linkedin.com/in/doddipriyambodo)
 * **Technical Blog:** [bicarait.com](https://bicarait.com)
 * **Medium:** [doddipriyambodo.medium.com](https://doddipriyambodo.medium.com)
